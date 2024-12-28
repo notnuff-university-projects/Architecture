@@ -1,0 +1,12 @@
+[submodule "go-time-server"]
+	path = go-time-server
+	url = git@github.com:notnuff-university-projects/lab1-GOys.git
+[submodule "go-polish-notation-calculator"]
+	path = go-polish-notation-calculator
+	url = git@github.com:notnuff-university-projects/lab2-GOys.git
+[submodule "go-graphics-framework-example"]
+	path = go-graphics-framework-example
+	url = git@github.com:notnuff-university-projects/architecture-lab-3.git
+[submodule "go-load-balancer-example"]
+	path = go-load-balancer-example
+	url = git@github.com:notnuff-university-projects/architecture-lab-4.git
